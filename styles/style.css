@@ -11,11 +11,6 @@ audio:not([controls]) {
   height: 0;
 }
 
-<<<<<<< HEAD
-body {
-	background: blue;
-}
-=======
 [hidden] {
   display: none;
 }
