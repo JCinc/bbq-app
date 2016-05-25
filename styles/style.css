@@ -167,4 +167,8 @@ legend, button::-moz-focus-inner, input::-moz-focus-inner {
 * {
   box-sizing: border-box;
 }
->>>>>>> 0fa416553451f5e9534e7f2f1befa93a36898569
+
+body {
+  background: lavenderblush;
+  font-family: Comic Sans MS;
+}
